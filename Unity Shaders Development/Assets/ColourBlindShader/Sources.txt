@@ -1,0 +1,34 @@
+Some sources used for creating the ColorBlindFitler Shader:
+
+- Main Artikel:
+http://web.archive.org/web/20081014161121/http://www.colorjack.com/labs/colormatrix/
+
+
+- ShaderToy primairy Test:
+https://www.shadertoy.com/view/tsfczS
+
+- Suplementary Artikels:
+ - http://blog.noblemaster.com/2013/10/26/opengl-shader-to-correct-and-simulate-color-blindness-experimental/comment-page-1/
+ - https://www.gamasutra.com/blogs/DanielGoffin/20170221/291846/Hand_Drawn_Colourblind_Friendliness_She_Remembered_Caterpillars.php
+ - http://blog.crunchywood.com/2013/10/simulating-colorblindness-in-unity.html
+ - http://wiki.unity3d.com/index.php/ColorBlindness
+ - https://www.alanzucconi.com/2015/12/16/color-blindness/
+ - http://www.colourblindawareness.org/wp-content/uploads/2018/07/FA_COLOUR_BLINDNESS_IN_FOOTBALL_ENG_one-page.pdf
+ - http://mkweb.bcgsc.ca/colorblind/math.mhtml
+ - https://ixora.io/projects/colorblindness/color-blindness-simulation-research/
+ - http://gameaccessibilityguidelines.com/ensure-no-essential-information-is-conveyed-by-a-colour-alone/
+ - https://www.reddit.com/r/gamedev/comments/2i9edg/code_to_create_filters_for_colorblind/
+ - https://www.designmatrix.com/pl/cyberpl/cftcb.html
+
+Misc links:
+- https://www.toptal.com/designers/colorfilter
+- https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40
+- https://www.color-blindness.com/coblis-color-blindness-simulator/
+
+
+
+
+Intention:
+This shaders intention is just to let the developer somewhat see what an actual colorblind other otherwise 
+color devicient persion would see. So that the developer can try and better the design in any way possible so
+that it still looks good for the users.
